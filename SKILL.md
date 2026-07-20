@@ -6,7 +6,7 @@ metadata:
   openclaw:
     requires:
       anyBins: [python3, python]
-    homepage: https://github.com/Corrame/apple-health-analyzer
+    homepage: https://github.com/HomuraTokido/apple-health-analyzer
     os: [macos, windows, linux]
 ---
 
