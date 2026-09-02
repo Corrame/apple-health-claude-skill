@@ -1,7 +1,14 @@
 ---
 name: apple-health-analyzer
 version: 1.0.0
-description: Use this skill when the user wants to analyze their Apple Health export data (export.xml), investigate health trends, find anomalies in physiological data, or act as a personal health detective using wearable data. Triggers on: "analyze my Apple Health data", "look at my health export", "check my heart rate trends", "investigate my sleep data", "health data analysis", or any request to dig into Apple Watch / iPhone health metrics from an export file. IMPORTANT: This skill requires Claude Code or equivalent (file system access + script execution). Do not attempt without these capabilities.
+description: >-
+  Use this skill when the user wants to analyze their Apple Health export data
+  (export.xml), investigate health trends, find anomalies in physiological data, or act as
+  a personal health detective using wearable data. Triggers on: "analyze my Apple Health
+  data", "look at my health export", "check my heart rate trends", "investigate my sleep
+  data", "health data analysis", or any request to dig into Apple Watch / iPhone health
+  metrics from an export file. IMPORTANT: This skill requires Claude Code or equivalent
+  (file system access + script execution). Do not attempt without these capabilities.
 metadata:
   openclaw:
     requires:
